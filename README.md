@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ปิยวัฒน์ เครือประเสริฐ
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660612152.vercel.app/
 
 ---
 
